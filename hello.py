@@ -1,1 +1,1 @@
-print "Hello city"
+print "Hello world"
